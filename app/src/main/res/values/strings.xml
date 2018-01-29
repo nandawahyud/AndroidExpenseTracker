@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android Expense Tracker</string>
+    <string name="action_signUp">Sign Up</string>
+    <string name="action_signIn">Sign In</string>
+    <string name="txt_Name">Name</string>
+    <string name="txt_Register">Name</string>
+    <string name="txt_Password">Password</string>
+    <string name="txt_userName">Username</string>
+
+</resources>
